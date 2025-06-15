@@ -1,6 +1,6 @@
-# GhostRecon
+# RawaRontek
 
-GhostRecon adalah alat all-in-one berbasis Python untuk melakukan Information Gathering, Subdomain Enumeration, Port Scanning, Vulnerability Scanning, dan keamanan web assessment secara komprehensif.
+RawaRontek adalah alat all-in-one berbasis Python untuk melakukan Information Gathering, Subdomain Enumeration, Port Scanning, Vulnerability Scanning, dan keamanan web assessment secara komprehensif.
 
 ## ✨ Fitur Utama
 
