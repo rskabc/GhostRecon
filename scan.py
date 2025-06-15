@@ -14,7 +14,7 @@ import ftplib
 summary_data = {}
 
 print("\n============================================================")
-print("GhostRecon - Advanced Reconnaissance & Vulnerability Assessment")
+print("Ajian Rawa Rontek - Advanced Reconnaissance & Vulnerability Assessment")
 print("Orchestrator script by @rskabc")
 print("Penolakan tanggung jawab: Script ini dibuat untuk riset keamanan.")
 print("Penggunaan untuk tujuan ilegal sepenuhnya menjadi tanggung jawab pengguna.")
